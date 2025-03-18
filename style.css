@@ -109,7 +109,7 @@
       left: 10px;
       top: 50%;
       transform: translateY(-50%);
-      background-color: #1e1e1e;
+      background-color: transparent;
       padding: 0 5px;
       color: #bbb;
       transition: 0.3s;
