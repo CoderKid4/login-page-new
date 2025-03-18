@@ -109,7 +109,8 @@
       left: 10px;
       top: 50%;
       transform: translateY(-50%);
-      background-color: transparent;
+      background-color: rgba(30, 30, 30, 0.9);
+  clip-path: inset(-2px -5px);
       padding: 0 5px;
       color: #bbb;
       transition: 0.3s;
